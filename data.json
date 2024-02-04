@@ -1,0 +1,1671 @@
+{
+  "all": {
+    "name": "کل جهان",
+    "muslims": 1703146000,
+    "muslims_of_world_percent": 23.4,
+    "muslims_of_islamic_world_percent": 100
+  },
+  "countries": [
+    {
+      "name": "افغانستان",
+      "flag": "\uD83C\uDDE6\uD83C\uDDEB",
+      "muslims": 38928346,
+      "muslims_of_country_percent": 100,
+      "muslims_of_islamic_world_percent": 2.4
+    },
+    {
+      "name": "آلبانی",
+      "flag": "\uD83C\uDDE6\uD83C\uDDF1",
+      "muslims": 1879172,
+      "muslims_of_country_percent": 58.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "الجزایر",
+      "flag": "\uD83C\uDDE9\uD83C\uDDFF",
+      "muslims": 40400000,
+      "muslims_of_country_percent": 98.2,
+      "muslims_of_islamic_world_percent": 2.7
+    },
+    {
+      "name": "ساموآی آمریکا",
+      "flag": "\uD83C\uDDE6\uD83C\uDDF8",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "آندورا",
+      "flag": "\uD83C\uDDE6\uD83C\uDDE9",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "آنگولا",
+      "flag": "\uD83C\uDDE6\uD83C\uDDF4",
+      "muslims": 90000,
+      "muslims_of_country_percent": 1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "آنگویلا",
+      "flag": "\uD83C\uDDE6\uD83C\uDDEE",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "آنتیگوا و باربودا",
+      "flag": "\uD83C\uDDE6\uD83C\uDDEC",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.6,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "آرژانتین",
+      "flag": "\uD83C\uDDE6\uD83C\uDDF7",
+      "muslims": 784000,
+      "muslims_of_country_percent": 2.5,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "ارمنستان",
+      "flag": "\uD83C\uDDE6\uD83C\uDDF2",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "آروبا",
+      "flag": "\uD83C\uDDE6\uD83C\uDDFC",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.4,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "استرالیا",
+      "flag": "\uD83C\uDDE6\uD83C\uDDFA",
+      "muslims": 476291,
+      "muslims_of_country_percent": 2.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "اتریش",
+      "flag": "\uD83C\uDDE6\uD83C\uDDF9",
+      "muslims": 573876,
+      "muslims_of_country_percent": 6.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جمهوری آذربایجان",
+      "flag": "\uD83C\uDDE6\uD83C\uDDFF",
+      "muslims": 8795000,
+      "muslims_of_country_percent": 98.4,
+      "muslims_of_islamic_world_percent": 0.5
+    },
+    {
+      "name": "باهاما",
+      "flag": "\uD83C\uDDE7\uD83C\uDDF8",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "بحرین",
+      "flag": "\uD83C\uDDE7\uD83C\uDDED",
+      "muslims": 866888,
+      "muslims_of_country_percent": 70.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "بنگلادش",
+      "flag": "\uD83C\uDDE7\uD83C\uDDE9",
+      "muslims": 145607000,
+      "muslims_of_country_percent": 86.3,
+      "muslims_of_islamic_world_percent": 9.2
+    },
+    {
+      "name": "باربادوس",
+      "flag": "\uD83C\uDDE7\uD83C\uDDE7",
+      "muslims": 2000,
+      "muslims_of_country_percent": 0.9,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "بلاروس",
+      "flag": "\uD83C\uDDE7\uD83C\uDDFE",
+      "muslims": 19000,
+      "muslims_of_country_percent": 0.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "بلژیک",
+      "flag": "\uD83C\uDDE7\uD83C\uDDEA",
+      "muslims": 658463,
+      "muslims_of_country_percent": 5.9,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "بلیز",
+      "flag": "\uD83C\uDDE7\uD83C\uDDFF",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "بنین",
+      "flag": "\uD83C\uDDE7\uD83C\uDDEF",
+      "muslims": 2710000,
+      "muslims_of_country_percent": 24.5,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "برمودا",
+      "flag": "\uD83C\uDDE7\uD83C\uDDF2",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "پادشاهی بوتان",
+      "flag": "\uD83C\uDDE7\uD83C\uDDF9",
+      "muslims": 2000,
+      "muslims_of_country_percent": 0.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "بولیوی",
+      "flag": "\uD83C\uDDE7\uD83C\uDDF4",
+      "muslims": 2000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "بوسنی و هرزگوین",
+      "flag": "\uD83C\uDDE7\uD83C\uDDE6",
+      "muslims": 1790454,
+      "muslims_of_country_percent": 50.7,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "بوتسوانا",
+      "flag": "\uD83C\uDDE7\uD83C\uDDFC",
+      "muslims": 8000,
+      "muslims_of_country_percent": 0.4,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "برزیل",
+      "flag": "\uD83C\uDDE7\uD83C\uDDF7",
+      "muslims": 204000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جزایر ویرجین بریتانیا",
+      "flag": "\uD83C\uDDFB\uD83C\uDDEC",
+      "muslims": 1000,
+      "muslims_of_country_percent": 1.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "برونئی",
+      "flag": "\uD83C\uDDE7\uD83C\uDDF3",
+      "muslims": 295000,
+      "muslims_of_country_percent": 67,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "بلغارستان",
+      "flag": "\uD83C\uDDE7\uD83C\uDDEC",
+      "muslims": 577000,
+      "muslims_of_country_percent": 7.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "بورکینافاسو",
+      "flag": "\uD83C\uDDE7\uD83C\uDDEB",
+      "muslims": 11270000,
+      "muslims_of_country_percent": 60.5,
+      "muslims_of_islamic_world_percent": 0.6
+    },
+    {
+      "name": "برمه (میانمار)",
+      "flag": "\uD83C\uDDF2\uD83C\uDDF2",
+      "muslims": 2237495,
+      "muslims_of_country_percent": 2.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "بروندی",
+      "flag": "\uD83C\uDDE7\uD83C\uDDEE",
+      "muslims": 250000,
+      "muslims_of_country_percent": 2.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کامبوج",
+      "flag": "\uD83C\uDDF0\uD83C\uDDED",
+      "muslims": 255000,
+      "muslims_of_country_percent": 1.6,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کامرون",
+      "flag": "\uD83C\uDDE8\uD83C\uDDF2",
+      "muslims": 4940000,
+      "muslims_of_country_percent": 20.9,
+      "muslims_of_islamic_world_percent": 0.2
+    },
+    {
+      "name": "کانادا",
+      "flag": "\uD83C\uDDE8\uD83C\uDDE6",
+      "muslims": 1053945,
+      "muslims_of_country_percent": 1.9,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کاپ ورد",
+      "flag": "\uD83C\uDDE8\uD83C\uDDFB",
+      "muslims": 10000,
+      "muslims_of_country_percent": 2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جزایر کیمن",
+      "flag": "\uD83C\uDDF0\uD83C\uDDFE",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جمهوری آفریقای مرکزی",
+      "flag": "\uD83C\uDDE8\uD83C\uDDEB",
+      "muslims": 403000,
+      "muslims_of_country_percent": 15,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "چاد",
+      "flag": "\uD83C\uDDF9\uD83C\uDDE9",
+      "muslims": 7827653,
+      "muslims_of_country_percent": 58,
+      "muslims_of_islamic_world_percent": 0.4
+    },
+    {
+      "name": "شیلی",
+      "flag": "\uD83C\uDDE8\uD83C\uDDF1",
+      "muslims": 2894,
+      "muslims_of_country_percent": 0.03,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "چین",
+      "flag": "\uD83C\uDDE8\uD83C\uDDF3",
+      "muslims": 50000000,
+      "muslims_of_country_percent": 1.8,
+      "muslims_of_islamic_world_percent": 1.4
+    },
+    {
+      "name": "جزایر کوکوس (کلینگ)",
+      "flag": "\uD83C\uDDE8\uD83C\uDDE8",
+      "muslims": 1000,
+      "muslims_of_country_percent": 80,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کلمبیا",
+      "flag": "\uD83C\uDDE8\uD83C\uDDF4",
+      "muslims": 40000,
+      "muslims_of_country_percent": 0.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کومور",
+      "flag": "\uD83C\uDDF0\uD83C\uDDF2",
+      "muslims": 785000,
+      "muslims_of_country_percent": 98.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کنگو",
+      "flag": "\uD83C\uDDE8\uD83C\uDDE9",
+      "muslims": 3648267,
+      "muslims_of_country_percent": 5,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جزایر کوک",
+      "flag": "\uD83C\uDDE8\uD83C\uDDF0",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کاستاریکا",
+      "flag": "\uD83C\uDDE8\uD83C\uDDF7",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کرواسی",
+      "flag": "\uD83C\uDDED\uD83C\uDDF7",
+      "muslims": 60000,
+      "muslims_of_country_percent": 1.4,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کوبا",
+      "flag": "\uD83C\uDDE8\uD83C\uDDFA",
+      "muslims": 10000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "قبرس",
+      "flag": "\uD83C\uDDE8\uD83C\uDDFE",
+      "muslims": 273000,
+      "muslims_of_country_percent": 22.7,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "قبرس",
+      "flag": "\uD83C\uDDE8\uD83C\uDDFF",
+      "muslims": 10500,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "دانمارک",
+      "flag": "\uD83C\uDDE9\uD83C\uDDF0",
+      "muslims": 230000,
+      "muslims_of_country_percent": 4.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جیبوتی",
+      "flag": "\uD83C\uDDE9\uD83C\uDDEF",
+      "muslims": 853000,
+      "muslims_of_country_percent": 97,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "دومینیکا",
+      "flag": "\uD83C\uDDE9\uD83C\uDDF2",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جمهوری دومینیکن",
+      "flag": "\uD83C\uDDE9\uD83C\uDDF4",
+      "muslims": 2000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "اکوادور",
+      "flag": "\uD83C\uDDEA\uD83C\uDDE8",
+      "muslims": 2000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مصر",
+      "flag": "\uD83C\uDDEA\uD83C\uDDEC",
+      "muslims": 73800000,
+      "muslims_of_country_percent": 90,
+      "muslims_of_islamic_world_percent": 4.9
+    },
+    {
+      "name": "السالوادور",
+      "flag": "\uD83C\uDDF8\uD83C\uDDFB",
+      "muslims": 2000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "گینه استوایی",
+      "flag": "\uD83C\uDDEC\uD83C\uDDF6",
+      "muslims": 28000,
+      "muslims_of_country_percent": 4.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "اریتره",
+      "flag": "\uD83C\uDDEA\uD83C\uDDF7",
+      "muslims": 1909000,
+      "muslims_of_country_percent": 36.6,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "استونی",
+      "flag": "\uD83C\uDDEA\uD83C\uDDEA",
+      "muslims": 1508,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "اتیوپی",
+      "flag": "\uD83C\uDDEA\uD83C\uDDF9",
+      "muslims": 25037646,
+      "muslims_of_country_percent": 34,
+      "muslims_of_islamic_world_percent": 1.8
+    },
+    {
+      "name": "جزایر فارو",
+      "flag": "\uD83C\uDDEB\uD83C\uDDF4",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جزایر فالکلند",
+      "flag": "\uD83C\uDDEB\uD83C\uDDF0",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "ایالات فدرال میکرونزی",
+      "flag": "\uD83C\uDDEB\uD83C\uDDF2",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "فیجی",
+      "flag": "\uD83C\uDDEB\uD83C\uDDEF",
+      "muslims": 54000,
+      "muslims_of_country_percent": 6.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "فنلاند",
+      "flag": "\uD83C\uDDEB\uD83C\uDDEE",
+      "muslims": 42000,
+      "muslims_of_country_percent": 0.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "فرانسه",
+      "flag": "\uD83C\uDDEB\uD83C\uDDF7",
+      "muslims": 5621000,
+      "muslims_of_country_percent": 7.5,
+      "muslims_of_islamic_world_percent": 0.3
+    },
+    {
+      "name": "گویان فرانسه",
+      "flag": "\uD83C\uDDEC\uD83C\uDDEB",
+      "muslims": 2000,
+      "muslims_of_country_percent": 0.9,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "پلی نزی فرانسه",
+      "flag": "\uD83C\uDDF5\uD83C\uDDEB",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "گابون",
+      "flag": "\uD83C\uDDEC\uD83C\uDDE6",
+      "muslims": 145000,
+      "muslims_of_country_percent": 9.7,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "گامبیا",
+      "flag": "\uD83C\uDDEC\uD83C\uDDF2",
+      "muslims": 1669000,
+      "muslims_of_country_percent": 95.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "گرجستان",
+      "flag": "\uD83C\uDDEC\uD83C\uDDEA",
+      "muslims": 442000,
+      "muslims_of_country_percent": 10.5,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "آلمان",
+      "flag": "\uD83C\uDDE9\uD83C\uDDEA",
+      "muslims": 5500000,
+      "muslims_of_country_percent": 6.7,
+      "muslims_of_islamic_world_percent": 0.2
+    },
+    {
+      "name": "غنا",
+      "flag": "\uD83C\uDDEC\uD83C\uDDED",
+      "muslims": 4914000,
+      "muslims_of_country_percent": 18,
+      "muslims_of_islamic_world_percent": 0.2
+    },
+    {
+      "name": "گیبرالتر",
+      "flag": "\uD83C\uDDEC\uD83C\uDDEE",
+      "muslims": 1000,
+      "muslims_of_country_percent": 4,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "یونان",
+      "flag": "\uD83C\uDDEC\uD83C\uDDF7",
+      "muslims": 610000,
+      "muslims_of_country_percent": 5.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "گرینلند",
+      "flag": "\uD83C\uDDEC\uD83C\uDDF1",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "گرنادا",
+      "flag": "\uD83C\uDDEC\uD83C\uDDE9",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "گوادلوپ",
+      "flag": "\uD83C\uDDEC\uD83C\uDDF5",
+      "muslims": 2000,
+      "muslims_of_country_percent": 0.4,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "گوام",
+      "flag": "\uD83C\uDDEC\uD83C\uDDFA",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "گواتمالا",
+      "flag": "\uD83C\uDDEC\uD83C\uDDF9",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "گینه",
+      "flag": "\uD83C\uDDEC\uD83C\uDDF3",
+      "muslims": 8693000,
+      "muslims_of_country_percent": 84.2,
+      "muslims_of_islamic_world_percent": 0.5
+    },
+    {
+      "name": "گینه بیسائو",
+      "flag": "\uD83C\uDDEC\uD83C\uDDFC",
+      "muslims": 705000,
+      "muslims_of_country_percent": 50,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "گویان",
+      "flag": "\uD83C\uDDEC\uD83C\uDDFE",
+      "muslims": 55000,
+      "muslims_of_country_percent": 7.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "هائی تی",
+      "flag": "\uD83C\uDDED\uD83C\uDDF9",
+      "muslims": 2000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "هندوراس",
+      "flag": "\uD83C\uDDED\uD83C\uDDF3",
+      "muslims": 11000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "هنگ کنگ",
+      "flag": "\uD83C\uDDED\uD83C\uDDF0",
+      "muslims": 220000,
+      "muslims_of_country_percent": 3.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مجارستان",
+      "flag": "\uD83C\uDDED\uD83C\uDDFA",
+      "muslims": 5579,
+      "muslims_of_country_percent": 0.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "ایسلند",
+      "flag": "\uD83C\uDDEE\uD83C\uDDF8",
+      "muslims": 1300,
+      "muslims_of_country_percent": 0.4,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "هند",
+      "flag": "\uD83C\uDDEE\uD83C\uDDF3",
+      "muslims": 172000000,
+      "muslims_of_country_percent": 14.2,
+      "muslims_of_islamic_world_percent": 9.6
+    },
+    {
+      "name": "اندونزی",
+      "flag": "\uD83C\uDDEE\uD83C\uDDE9",
+      "muslims": 204847000,
+      "muslims_of_country_percent": 87.2,
+      "muslims_of_islamic_world_percent": 12.7
+    },
+    {
+      "name": "ایران",
+      "flag": "\uD83C\uDDEE\uD83C\uDDF7",
+      "muslims": 79447000,
+      "muslims_of_country_percent": 99.4,
+      "muslims_of_islamic_world_percent": 4.6
+    },
+    {
+      "name": "عراق",
+      "flag": "\uD83C\uDDEE\uD83C\uDDF6",
+      "muslims": 31108000,
+      "muslims_of_country_percent": 98.9,
+      "muslims_of_islamic_world_percent": 1.9
+    },
+    {
+      "name": "ایرلند",
+      "flag": "\uD83C\uDDEE\uD83C\uDDEA",
+      "muslims": 70158,
+      "muslims_of_country_percent": 1.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جزیره من",
+      "flag": "\uD83C\uDDEE\uD83C\uDDF2",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "اسرائیل",
+      "flag": "\uD83C\uDDEE\uD83C\uDDF1",
+      "muslims": 1287000,
+      "muslims_of_country_percent": 17.7,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "ایتالیا",
+      "flag": "\uD83C\uDDEE\uD83C\uDDF9",
+      "muslims": 2220000,
+      "muslims_of_country_percent": 3.7,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جامائیکا",
+      "flag": "\uD83C\uDDEF\uD83C\uDDF2",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "ژاپن",
+      "flag": "\uD83C\uDDEF\uD83C\uDDF5",
+      "muslims": 185000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "اردن",
+      "flag": "\uD83C\uDDEF\uD83C\uDDF4",
+      "muslims": 6397000,
+      "muslims_of_country_percent": 93.8,
+      "muslims_of_islamic_world_percent": 0.4
+    },
+    {
+      "name": "قزاقستان",
+      "flag": "\uD83C\uDDF0\uD83C\uDDFF",
+      "muslims": 8887000,
+      "muslims_of_country_percent": 70.2,
+      "muslims_of_islamic_world_percent": 0.5
+    },
+    {
+      "name": "کنیا",
+      "flag": "\uD83C\uDDF0\uD83C\uDDEA",
+      "muslims": 2868000,
+      "muslims_of_country_percent": 10,
+      "muslims_of_islamic_world_percent": 0.2
+    },
+    {
+      "name": "کیریباتی",
+      "flag": "\uD83C\uDDF0\uD83C\uDDEE",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کوزوو",
+      "flag": "\uD83C\uDDFD\uD83C\uDDF0",
+      "muslims": 1584000,
+      "muslims_of_country_percent": 95.6,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کویت",
+      "flag": "\uD83C\uDDF0\uD83C\uDDFC",
+      "muslims": 2636000,
+      "muslims_of_country_percent": 74.1,
+      "muslims_of_islamic_world_percent": 0.2
+    },
+    {
+      "name": "قرقیزستان",
+      "flag": "\uD83C\uDDF0\uD83C\uDDEC",
+      "muslims": 4927000,
+      "muslims_of_country_percent": 88.8,
+      "muslims_of_islamic_world_percent": 0.3
+    },
+    {
+      "name": "لائوس",
+      "flag": "\uD83C\uDDF1\uD83C\uDDE6",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "لتونی",
+      "flag": "\uD83C\uDDF1\uD83C\uDDFB",
+      "muslims": 2000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "لبنان",
+      "flag": "\uD83C\uDDF1\uD83C\uDDE7",
+      "muslims": 2542000,
+      "muslims_of_country_percent": 59.7,
+      "muslims_of_islamic_world_percent": 0.2
+    },
+    {
+      "name": "لسوتو",
+      "flag": "\uD83C\uDDF1\uD83C\uDDF8",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "لیبریا",
+      "flag": "\uD83C\uDDF1\uD83C\uDDF7",
+      "muslims": 523000,
+      "muslims_of_country_percent": 12.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "لیبی",
+      "flag": "\uD83C\uDDF1\uD83C\uDDFE",
+      "muslims": 6325000,
+      "muslims_of_country_percent": 96.6,
+      "muslims_of_islamic_world_percent": 0.4
+    },
+    {
+      "name": "لیختن اشتاین",
+      "flag": "\uD83C\uDDF1\uD83C\uDDEE",
+      "muslims": 2000,
+      "muslims_of_country_percent": 4.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "لیتوانی",
+      "flag": "\uD83C\uDDF1\uD83C\uDDF9",
+      "muslims": 3000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "لوکزامبورگ",
+      "flag": "\uD83C\uDDF1\uD83C\uDDFA",
+      "muslims": 11000,
+      "muslims_of_country_percent": 2.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "ماکائو",
+      "flag": "\uD83C\uDDF2\uD83C\uDDF4",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مقدونیه",
+      "flag": "\uD83C\uDDF2\uD83C\uDDF0",
+      "muslims": 500000,
+      "muslims_of_country_percent": 33.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "ماداگاسکار",
+      "flag": "\uD83C\uDDF2\uD83C\uDDEC",
+      "muslims": 220000,
+      "muslims_of_country_percent": 7,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مالاوی",
+      "flag": "\uD83C\uDDF2\uD83C\uDDFC",
+      "muslims": 2011000,
+      "muslims_of_country_percent": 12.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مالزی",
+      "flag": "\uD83C\uDDF2\uD83C\uDDFE",
+      "muslims": 17139000,
+      "muslims_of_country_percent": 61.4,
+      "muslims_of_islamic_world_percent": 1.1
+    },
+    {
+      "name": "مالدیو",
+      "flag": "\uD83C\uDDF2\uD83C\uDDFB",
+      "muslims": 309000,
+      "muslims_of_country_percent": 100,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مالی",
+      "flag": "\uD83C\uDDF2\uD83C\uDDF1",
+      "muslims": 15667704,
+      "muslims_of_country_percent": 95,
+      "muslims_of_islamic_world_percent": 0.8
+    },
+    {
+      "name": "مالت",
+      "flag": "\uD83C\uDDF2\uD83C\uDDF9",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جزایر مارشال",
+      "flag": "\uD83C\uDDF2\uD83C\uDDED",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مارتینیک",
+      "flag": "\uD83C\uDDF2\uD83C\uDDF6",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "موریتانی",
+      "flag": "\uD83C\uDDF2\uD83C\uDDF7",
+      "muslims": 4171633,
+      "muslims_of_country_percent": 100,
+      "muslims_of_islamic_world_percent": 0.2
+    },
+    {
+      "name": "موریس",
+      "flag": "\uD83C\uDDF2\uD83C\uDDFA",
+      "muslims": 230118,
+      "muslims_of_country_percent": 17.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مایوت",
+      "flag": "\uD83C\uDDFE\uD83C\uDDF9",
+      "muslims": 197000,
+      "muslims_of_country_percent": 98.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مکزیک",
+      "flag": "\uD83C\uDDF2\uD83C\uDDFD",
+      "muslims": 110000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مولداوی",
+      "flag": "\uD83C\uDDF2\uD83C\uDDE9",
+      "muslims": 15000,
+      "muslims_of_country_percent": 0.4,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "موناکو",
+      "flag": "\uD83C\uDDF2\uD83C\uDDE8",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.5,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مغولستان",
+      "flag": "\uD83C\uDDF2\uD83C\uDDF3",
+      "muslims": 200000,
+      "muslims_of_country_percent": 6,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مونته نگرو",
+      "flag": "\uD83C\uDDF2\uD83C\uDDEA",
+      "muslims": 118477,
+      "muslims_of_country_percent": 19.11,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مونتسرات",
+      "flag": "\uD83C\uDDF2\uD83C\uDDF8",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "مراکش",
+      "flag": "\uD83C\uDDF2\uD83C\uDDE6",
+      "muslims": 32381000,
+      "muslims_of_country_percent": 99,
+      "muslims_of_islamic_world_percent": 2
+    },
+    {
+      "name": "موزامبیک",
+      "flag": "\uD83C\uDDF2\uD83C\uDDFF",
+      "muslims": 5340000,
+      "muslims_of_country_percent": 22.8,
+      "muslims_of_islamic_world_percent": 0.3
+    },
+    {
+      "name": "نامیبیا",
+      "flag": "\uD83C\uDDF3\uD83C\uDDE6",
+      "muslims": 9000,
+      "muslims_of_country_percent": 0.4,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "نائورو",
+      "flag": "\uD83C\uDDF3\uD83C\uDDF7",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "نپال",
+      "flag": "\uD83C\uDDF3\uD83C\uDDF5",
+      "muslims": 1253000,
+      "muslims_of_country_percent": 4.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "هلند",
+      "flag": "\uD83C\uDDF3\uD83C\uDDF1",
+      "muslims": 825000,
+      "muslims_of_country_percent": 6,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "آنتیل هلند",
+      "flag": null,
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کالدونیای جدید",
+      "flag": "\uD83C\uDDF3\uD83C\uDDE8",
+      "muslims": 7000,
+      "muslims_of_country_percent": 2.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "نیوزیلند",
+      "flag": "\uD83C\uDDF3\uD83C\uDDFF",
+      "muslims": 41000,
+      "muslims_of_country_percent": 0.9,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "نیکاراگوئه",
+      "flag": "\uD83C\uDDF3\uD83C\uDDEE",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "نیجر",
+      "flag": "\uD83C\uDDF3\uD83C\uDDEA",
+      "muslims": 19502214,
+      "muslims_of_country_percent": 98.3,
+      "muslims_of_islamic_world_percent": 1
+    },
+    {
+      "name": "نیجریه",
+      "flag": "\uD83C\uDDF3\uD83C\uDDEC",
+      "muslims": 93839000,
+      "muslims_of_country_percent": 50,
+      "muslims_of_islamic_world_percent": 4.7
+    },
+    {
+      "name": "نیووی",
+      "flag": "\uD83C\uDDF3\uD83C\uDDFA",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کره شمالی",
+      "flag": "\uD83C\uDDF0\uD83C\uDDF5",
+      "muslims": 3000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جزایر ماریانای شمالی",
+      "flag": "\uD83C\uDDF2\uD83C\uDDF5",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.7,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "نروژ",
+      "flag": "\uD83C\uDDF3\uD83C\uDDF4",
+      "muslims": 163180,
+      "muslims_of_country_percent": 3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "عمان",
+      "flag": "\uD83C\uDDF4\uD83C\uDDF2",
+      "muslims": 2547000,
+      "muslims_of_country_percent": 87.7,
+      "muslims_of_islamic_world_percent": 0.2
+    },
+    {
+      "name": "پاکستان",
+      "flag": "\uD83C\uDDF5\uD83C\uDDF0",
+      "muslims": 178000000,
+      "muslims_of_country_percent": 96.4,
+      "muslims_of_islamic_world_percent": 11
+    },
+    {
+      "name": "پالائو",
+      "flag": "\uD83C\uDDF5\uD83C\uDDFC",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سرزمین\u200Cهای فلسطینی",
+      "flag": "\uD83C\uDDF5\uD83C\uDDF8",
+      "muslims": 4298000,
+      "muslims_of_country_percent": 97.5,
+      "muslims_of_islamic_world_percent": 0.3
+    },
+    {
+      "name": "پاناما",
+      "flag": "\uD83C\uDDF5\uD83C\uDDE6",
+      "muslims": 25000,
+      "muslims_of_country_percent": 0.7,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "پاپوآگینه نو",
+      "flag": "\uD83C\uDDF5\uD83C\uDDEC",
+      "muslims": 2000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "پاراگوئه",
+      "flag": "\uD83C\uDDF5\uD83C\uDDFE",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "پرو",
+      "flag": "\uD83C\uDDF5\uD83C\uDDEA",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "فیلیپین",
+      "flag": "\uD83C\uDDF5\uD83C\uDDED",
+      "muslims": 5896000,
+      "muslims_of_country_percent": 4.6,
+      "muslims_of_islamic_world_percent": 0.7
+    },
+    {
+      "name": "لهستان",
+      "flag": "\uD83C\uDDF5\uD83C\uDDF1",
+      "muslims": 20000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "پرتغال",
+      "flag": "\uD83C\uDDF5\uD83C\uDDF9",
+      "muslims": 65000,
+      "muslims_of_country_percent": 0.6,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "پورتوریکو",
+      "flag": "\uD83C\uDDF5\uD83C\uDDF7",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "قطر",
+      "flag": "\uD83C\uDDF6\uD83C\uDDE6",
+      "muslims": 1168000,
+      "muslims_of_country_percent": 77.5,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جمهوری کنگو",
+      "flag": "\uD83C\uDDE8\uD83C\uDDEC",
+      "muslims": 77736,
+      "muslims_of_country_percent": 1.6,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "رئونیون",
+      "flag": "\uD83C\uDDF7\uD83C\uDDEA",
+      "muslims": 35000,
+      "muslims_of_country_percent": 4.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "رومانی",
+      "flag": "\uD83C\uDDF7\uD83C\uDDF4",
+      "muslims": 73000,
+      "muslims_of_country_percent": 0.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "روسیه",
+      "flag": "\uD83C\uDDF7\uD83C\uDDFA",
+      "muslims": 9400000,
+      "muslims_of_country_percent": 6.5,
+      "muslims_of_islamic_world_percent": 1
+    },
+    {
+      "name": "روآندا",
+      "flag": "\uD83C\uDDF7\uD83C\uDDFC",
+      "muslims": 589429,
+      "muslims_of_country_percent": 4.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سنت هلنا",
+      "flag": "\uD83C\uDDF8\uD83C\uDDED",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سنت کیتس و نویس",
+      "flag": "\uD83C\uDDF0\uD83C\uDDF3",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سنت لوسیا",
+      "flag": "\uD83C\uDDF1\uD83C\uDDE8",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سنت پیر و ماژلان",
+      "flag": "\uD83C\uDDEB\uD83C\uDDF7",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سنت وینست و گرنادین\u200Cها",
+      "flag": "\uD83C\uDDFB\uD83C\uDDE8",
+      "muslims": 2000,
+      "muslims_of_country_percent": 1.7,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "ساموا",
+      "flag": "\uD83C\uDDFC\uD83C\uDDF8",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سان مارینو",
+      "flag": "\uD83C\uDDF8\uD83C\uDDF2",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سائوتومه و پرنسیپ",
+      "flag": "\uD83C\uDDF8\uD83C\uDDF9",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "عربستان سعودی",
+      "flag": "\uD83C\uDDF8\uD83C\uDDE6",
+      "muslims": 25493000,
+      "muslims_of_country_percent": 97.1,
+      "muslims_of_islamic_world_percent": 1.6
+    },
+    {
+      "name": "سنگال",
+      "flag": "\uD83C\uDDF8\uD83C\uDDF3",
+      "muslims": 14584931,
+      "muslims_of_country_percent": 95.9,
+      "muslims_of_islamic_world_percent": 0.8
+    },
+    {
+      "name": "صربستان",
+      "flag": "\uD83C\uDDF7\uD83C\uDDF8",
+      "muslims": 227000,
+      "muslims_of_country_percent": 2.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سیشل",
+      "flag": "\uD83C\uDDF8\uD83C\uDDE8",
+      "muslims": 1000,
+      "muslims_of_country_percent": 1.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سیرالئون",
+      "flag": "\uD83C\uDDF8\uD83C\uDDF1",
+      "muslims": 4171000,
+      "muslims_of_country_percent": 71.5,
+      "muslims_of_islamic_world_percent": 0.3
+    },
+    {
+      "name": "سنگاپور",
+      "flag": "\uD83C\uDDF8\uD83C\uDDEC",
+      "muslims": 721000,
+      "muslims_of_country_percent": 14.7,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "اسلوواکی",
+      "flag": "\uD83C\uDDF8\uD83C\uDDF0",
+      "muslims": 10866,
+      "muslims_of_country_percent": 0.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "اسلوونی",
+      "flag": "\uD83C\uDDF8\uD83C\uDDEE",
+      "muslims": 73568,
+      "muslims_of_country_percent": 3.6,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "جزایر سلیمان",
+      "flag": "\uD83C\uDDF8\uD83C\uDDE7",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سومالی",
+      "flag": "\uD83C\uDDF8\uD83C\uDDF4",
+      "muslims": 9231000,
+      "muslims_of_country_percent": 98.9,
+      "muslims_of_islamic_world_percent": 0.6
+    },
+    {
+      "name": "آفریقای جنوبی",
+      "flag": "\uD83C\uDDFF\uD83C\uDDE6",
+      "muslims": 654064,
+      "muslims_of_country_percent": 1.5,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "کره جنوبی",
+      "flag": "\uD83C\uDDF0\uD83C\uDDF7",
+      "muslims": 35000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سودان جنوبی",
+      "flag": "\uD83C\uDDF8\uD83C\uDDF8",
+      "muslims": 610000,
+      "muslims_of_country_percent": 6.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "اسپانیا",
+      "flag": "\uD83C\uDDEA\uD83C\uDDF8",
+      "muslims": 1887906,
+      "muslims_of_country_percent": 4.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سری لانکا",
+      "flag": "\uD83C\uDDF1\uD83C\uDDF0",
+      "muslims": 1967227,
+      "muslims_of_country_percent": 9.71,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سودان",
+      "flag": "\uD83C\uDDF8\uD83C\uDDE9",
+      "muslims": 39027950,
+      "muslims_of_country_percent": 97,
+      "muslims_of_islamic_world_percent": 1.9
+    },
+    {
+      "name": "سورینام",
+      "flag": "\uD83C\uDDF8\uD83C\uDDE9",
+      "muslims": 84000,
+      "muslims_of_country_percent": 19.6,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سوازیلند",
+      "flag": "\uD83C\uDDF8\uD83C\uDDFF",
+      "muslims": 129230,
+      "muslims_of_country_percent": 10,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سوئد",
+      "flag": "\uD83C\uDDF8\uD83C\uDDEA",
+      "muslims": 500000,
+      "muslims_of_country_percent": 5,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سوئیس",
+      "flag": "\uD83C\uDDE8\uD83C\uDDED",
+      "muslims": 400000,
+      "muslims_of_country_percent": 5,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "سوریه",
+      "flag": "\uD83C\uDDF8\uD83C\uDDFE",
+      "muslims": 20895000,
+      "muslims_of_country_percent": 90,
+      "muslims_of_islamic_world_percent": 1.3
+    },
+    {
+      "name": "تایوان",
+      "flag": "\uD83C\uDDF9\uD83C\uDDFC",
+      "muslims": 60000,
+      "muslims_of_country_percent": 0.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "تاجیکستان",
+      "flag": "\uD83C\uDDF9\uD83C\uDDEF",
+      "muslims": 7006000,
+      "muslims_of_country_percent": 99,
+      "muslims_of_islamic_world_percent": 0.4
+    },
+    {
+      "name": "تانزانیا",
+      "flag": "\uD83C\uDDF9\uD83C\uDDFF",
+      "muslims": 19426814,
+      "muslims_of_country_percent": 35,
+      "muslims_of_islamic_world_percent": 0.8
+    },
+    {
+      "name": "تایلند",
+      "flag": "\uD83C\uDDF9\uD83C\uDDED",
+      "muslims": 3952000,
+      "muslims_of_country_percent": 5.8,
+      "muslims_of_islamic_world_percent": 0.2
+    },
+    {
+      "name": "تیمور شرقی",
+      "flag": "\uD83C\uDDF9\uD83C\uDDF1",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "توگو",
+      "flag": "\uD83C\uDDF9\uD83C\uDDEC",
+      "muslims": 827000,
+      "muslims_of_country_percent": 20,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "توکلاو",
+      "flag": "\uD83C\uDDF9\uD83C\uDDF0",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "تونگا",
+      "flag": "\uD83C\uDDF9\uD83C\uDDF4",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "ترینیدادوتوباگو",
+      "flag": "\uD83C\uDDF9\uD83C\uDDF9",
+      "muslims": 78000,
+      "muslims_of_country_percent": 5.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "تونس",
+      "flag": "\uD83C\uDDF9\uD83C\uDDF3",
+      "muslims": 11190000,
+      "muslims_of_country_percent": 99.8,
+      "muslims_of_islamic_world_percent": 0.6
+    },
+    {
+      "name": "ترکیه",
+      "flag": "\uD83C\uDDF9\uD83C\uDDF7",
+      "muslims": 74660000,
+      "muslims_of_country_percent": 98.6,
+      "muslims_of_islamic_world_percent": 4.6
+    },
+    {
+      "name": "ترکمنستان",
+      "flag": "\uD83C\uDDF9\uD83C\uDDF2",
+      "muslims": 4830000,
+      "muslims_of_country_percent": 93.3,
+      "muslims_of_islamic_world_percent": 0.3
+    },
+    {
+      "name": "جزایر تورکس و کایکوس",
+      "flag": "\uD83C\uDDF9\uD83C\uDDE8",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "تووالو",
+      "flag": "\uD83C\uDDF9\uD83C\uDDFB",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "اوگاندا",
+      "flag": "\uD83C\uDDFA\uD83C\uDDEC",
+      "muslims": 5030000,
+      "muslims_of_country_percent": 12,
+      "muslims_of_islamic_world_percent": 0.3
+    },
+    {
+      "name": "اوکراین",
+      "flag": "\uD83C\uDDFA\uD83C\uDDE6",
+      "muslims": 393000,
+      "muslims_of_country_percent": 0.8,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "امارات متحده عربی",
+      "flag": "\uD83C\uDDE6\uD83C\uDDEA",
+      "muslims": 3577000,
+      "muslims_of_country_percent": 76,
+      "muslims_of_islamic_world_percent": 0.2
+    },
+    {
+      "name": "بریتانیا",
+      "flag": "\uD83C\uDDEC\uD83C\uDDE7",
+      "muslims": 3106368,
+      "muslims_of_country_percent": 4.8,
+      "muslims_of_islamic_world_percent": 0.2
+    },
+    {
+      "name": "ایالات متحده",
+      "flag": "\uD83C\uDDFA\uD83C\uDDF8",
+      "muslims": 2595000,
+      "muslims_of_country_percent": 0.8,
+      "muslims_of_islamic_world_percent": 0.2
+    },
+    {
+      "name": "جزایر ویرجین ایالات متحده",
+      "flag": "\uD83C\uDDFB\uD83C\uDDEE",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "اروگوئه",
+      "flag": "\uD83C\uDDFA\uD83C\uDDFE",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "ازبکستان",
+      "flag": "\uD83C\uDDFA\uD83C\uDDFF",
+      "muslims": 26833000,
+      "muslims_of_country_percent": 96.5,
+      "muslims_of_islamic_world_percent": 1.7
+    },
+    {
+      "name": "وانوآتو",
+      "flag": "\uD83C\uDDFB\uD83C\uDDFA",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "واتیکان",
+      "flag": "\uD83C\uDDFB\uD83C\uDDE6",
+      "muslims": 0,
+      "muslims_of_country_percent": 0,
+      "muslims_of_islamic_world_percent": 0
+    },
+    {
+      "name": "ونزوئلا",
+      "flag": "\uD83C\uDDFB\uD83C\uDDEA",
+      "muslims": 95000,
+      "muslims_of_country_percent": 0.3,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "ویتنام",
+      "flag": "\uD83C\uDDFB\uD83C\uDDF3",
+      "muslims": 71200,
+      "muslims_of_country_percent": 0.2,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "والیس و فوتونا",
+      "flag": "\uD83C\uDDFC\uD83C\uDDEB",
+      "muslims": 1000,
+      "muslims_of_country_percent": 0.1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "صحرای غربی",
+      "flag": "\uD83C\uDDEA\uD83C\uDDED",
+      "muslims": 528000,
+      "muslims_of_country_percent": 99.6,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "یمن",
+      "flag": "\uD83C\uDDFE\uD83C\uDDEA",
+      "muslims": 24023000,
+      "muslims_of_country_percent": 99,
+      "muslims_of_islamic_world_percent": 1.5
+    },
+    {
+      "name": "زامبیا",
+      "flag": "\uD83C\uDDFF\uD83C\uDDF2",
+      "muslims": 140000,
+      "muslims_of_country_percent": 1,
+      "muslims_of_islamic_world_percent": 0.1
+    },
+    {
+      "name": "زیمبابوه",
+      "flag": "\uD83C\uDDFF\uD83C\uDDFC",
+      "muslims": 488656,
+      "muslims_of_country_percent": 3,
+      "muslims_of_islamic_world_percent": 0.1
+    }
+  ],
+  "continents": [
+    {
+      "name": "آسیای مرکزی",
+      "muslims": 54000000,
+      "muslims_of_continent_percent": 80,
+      "muslims_of_islamic_world_percent": 3
+    },
+    {
+      "name": "آسیای جنوبی",
+      "muslims": 507284000,
+      "muslims_of_continent_percent": 31.4,
+      "muslims_of_islamic_world_percent": 30.6
+    },
+    {
+      "name": "جنوب شرقی آسیا",
+      "muslims": 257000000,
+      "muslims_of_continent_percent": 12,
+      "muslims_of_islamic_world_percent": 15
+    },
+    {
+      "name": "خاورمیانه-آفریقای شمالی (منا)",
+      "muslims": 315322000,
+      "muslims_of_continent_percent": 91.2,
+      "muslims_of_islamic_world_percent": 22.9
+    },
+    {
+      "name": "جنوب صحرای آفریقا",
+      "muslims": 242544000,
+      "muslims_of_continent_percent": 29.6,
+      "muslims_of_islamic_world_percent": 15
+    },
+    {
+      "name": "اروپا",
+      "muslims": 44138000,
+      "muslims_of_continent_percent": 6,
+      "muslims_of_islamic_world_percent": 2.7
+    },
+    {
+      "name": "آمریکا",
+      "muslims": 5256000,
+      "muslims_of_continent_percent": 0.6,
+      "muslims_of_islamic_world_percent": 0.3
+    }
+  ]
+}
